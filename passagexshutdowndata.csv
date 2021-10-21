@@ -1,4 +1,4 @@
-Year,Prop_shut,Percent_shut,atlantic_salmon_passed,,am_shad_passed,,bb_herring_passed,,striped_bass_passed,,sturg_passed,,gizzard_shad_passed,,sea_lamp_passed,
+Year,Prop_shut,Percent_shut,atlantic_salmon_passed,log1_atlantic_salmon_passed,am_shad_passed,log_am_shad_passed,bb_herring_passed,log_bb_herring_passed,striped_bass_passed,log_striped_bass_passed,sturg_passed,log1_sturg_passed,gizzard_shad_passed,log_gizzard_shad_passed,sea_lamp_passed,log_sea_lamp_passed
 2020,0.358490566,35.8490566,0,0,362244,5.559001201,763,2.882524538,423,2.626340367,18,1.278753601,64,1.806179974,33739,4.528132206
 2019,0.296875,29.6875,3,0.602059991,314361,5.497428662,5052,3.703463342,207,2.315970345,20,1.322219295,320,2.505149978,18347,4.263565061
 2018,0.366492147,36.64921466,2,0.477121255,273979,5.437717276,1061,3.025715384,262,2.418301291,91,1.963787827,69,1.838849091,10187,4.008046306
